@@ -1,4 +1,4 @@
-package com.example.demo.users;
+package com.example.first_spring_boot_backend.users;
 
 public class User {
     String fName, lName, profession;

@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.example.first_spring_boot_backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

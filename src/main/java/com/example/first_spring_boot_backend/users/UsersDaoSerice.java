@@ -1,7 +1,6 @@
-package com.example.demo.users;
+package com.example.first_spring_boot_backend.users;
 
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
 import java.util.HashMap;
